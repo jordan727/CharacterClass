@@ -1,0 +1,15 @@
+F:\CS30\OOP\Character Class Assignment\bin\Debug\net6.0\Character Class Assignment.exe
+F:\CS30\OOP\Character Class Assignment\bin\Debug\net6.0\Character Class Assignment.deps.json
+F:\CS30\OOP\Character Class Assignment\bin\Debug\net6.0\Character Class Assignment.runtimeconfig.json
+F:\CS30\OOP\Character Class Assignment\bin\Debug\net6.0\Character Class Assignment.dll
+F:\CS30\OOP\Character Class Assignment\bin\Debug\net6.0\Character Class Assignment.pdb
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\Character Class Assignment.csproj.AssemblyReference.cache
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\Character Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\Character Class Assignment.AssemblyInfoInputs.cache
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\Character Class Assignment.AssemblyInfo.cs
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\Character Class Assignment.csproj.CoreCompileInputs.cache
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\Character Class Assignment.dll
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\refint\Character Class Assignment.dll
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\Character Class Assignment.pdb
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\Character Class Assignment.genruntimeconfig.cache
+F:\CS30\OOP\Character Class Assignment\obj\Debug\net6.0\ref\Character Class Assignment.dll
